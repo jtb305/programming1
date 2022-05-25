@@ -30,7 +30,7 @@ An app that would loop the text x bottles of beer on the wall... and would subtr
 ![Source code for 99 bottles of beer] (https://github.com/jtb305/programming1/blob/gh-pages/src/99%20bottles.zip)
 
 ### Open sea grid combat
-OOP graphics collision based 2ds spaces shooter. Created winter of 2021
+OOP Our final project that we were only able to incorporate some of our desired features. Created spring of 2022
 
 ![Open sea grid combat](https://github.com/jtb305/programming1/blob/gh-pages/images/Screen%20Shot%202022-05-25%20at%2012.09.27%20PM.png?raw=true)
 
