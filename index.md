@@ -1,4 +1,7 @@
 # JT Billick Programming Portfolio
+## jtb305@outlook.com
+
+## State certified in programming 1
 
 ## Processing Projects
 
